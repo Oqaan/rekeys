@@ -1,5 +1,5 @@
 {
-  "name": "rekeys",
+  "name": "@oqaan/rekeys",
   "version": "0.1.0",
   "description": "React keyboard shortcuts in one line",
   "main": "dist/index.js",
