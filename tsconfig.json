@@ -6,7 +6,9 @@
     "declaration": true,
     "strict": true,
     "jsx": "react",
-    "outDir": "dist"
+    "outDir": "dist",
+    "rootDir": "src",
+    "lib": ["ES2018", "DOM"]
   },
   "include": ["src"]
 }
